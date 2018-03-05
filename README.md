@@ -8,3 +8,4 @@ I have a longer list somewhere that I will add later.
  - [Metagoofil](https://github.com/kurobeats/metagoofil) - Extract metadata from popular file types.
  - [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - For lots of recon.
  - [theHarvester](https://github.com/laramies/theHarvester) - Better version of recon-ng.
+ - [cree.py](http://www.geocreepy.com/) - A geolocation OSINT tool.
