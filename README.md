@@ -1,7 +1,7 @@
 # OSINT-Tools
 :eyes: Some of my favorite OSINT tools.
  
-I have a longer list somewhere that I will add later.
+If you want me to add something, just make a pull request.
 
 ## Tools
  - [Maltego](https://www.paterva.com/web7/) - Get info from lots of things.
@@ -9,3 +9,8 @@ I have a longer list somewhere that I will add later.
  - [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - For lots of recon.
  - [theHarvester](https://github.com/laramies/theHarvester) - Better version of recon-ng.
  - [cree.py](http://www.geocreepy.com/) - A geolocation OSINT tool.
+### Username Checkers
+ - [Check Usernames](http://checkusernames.com/)
+ - [No Name Username Scanner](https://inteltechniques.com/osint/menu.user.html)
+ - [Gaddr](https://gaddr.me/)
+ - [KnowEm](https://knowem.com/) (Searches a lot of things)
