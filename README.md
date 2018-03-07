@@ -12,7 +12,8 @@ If you want me to add something, just make a pull request.
  - [SpiderFoot](http://www.spiderfoot.net/) - Open source footprinting and intelligence-gathering tool.
  - [XRay](https://github.com/evilsocket/xray) - Tool for mapping and OSINT gathering from public networks.
  - [trape](https://github.com/boxug/trape) - A cool people tracker written in python.
- - [Goohak](https://github.com/1N3/Goohak) - Automatically launch Google hacking queries against a target domain. 
+ - [Goohak](https://github.com/1N3/Goohak) - Automatically launch Google hacking queries against a target domain.
+ - [The Infected Drake](https://github.com/the-Infected-Drake/TIDoS-Framework) - A web-penetration testing toolkit, presently suited for reconnaissance purposes.
 ### Username Checkers
  - [Check Usernames](http://checkusernames.com/)
  - [No Name Username Scanner](https://inteltechniques.com/osint/menu.user.html)
