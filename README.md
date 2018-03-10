@@ -3,6 +3,8 @@
  
 If you want me to add something, just make a pull request.
 
+If you want a list of resources rather than tools, you should check out [this](https://github.com/jivoi/awesome-osint) repository.
+
 ## Tools
  - [Maltego](https://www.paterva.com/web7/) - Get info from lots of things.
  - [Metagoofil](https://github.com/kurobeats/metagoofil) - Extract metadata from popular file types.
