@@ -16,6 +16,7 @@ If you want a list of resources rather than tools, you should check out [this](h
  - [trape](https://github.com/boxug/trape) - A cool people tracker written in python.
  - [Goohak](https://github.com/1N3/Goohak) - Automatically launch Google hacking queries against a target domain.
  - [The Infected Drake](https://github.com/the-Infected-Drake/TIDoS-Framework) - A web-penetration testing toolkit, presently suited for reconnaissance purposes.
+ - [Email2PhoneNumber](https://github.com/martinvigo/email2phonenumber) - A script for attempting to find a phone number associated with an e-mail.
 ### Username Checkers
  - [Check Usernames](http://checkusernames.com/)
  - [No Name Username Scanner](https://inteltechniques.com/osint/menu.user.html)
