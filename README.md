@@ -18,6 +18,7 @@ If you want a list of resources rather than tools, you should check out [this](h
  - [The Infected Drake](https://github.com/the-Infected-Drake/TIDoS-Framework) - A web-penetration testing toolkit, presently suited for reconnaissance purposes.
  - [Email2PhoneNumber](https://github.com/martinvigo/email2phonenumber) - A script for attempting to find a phone number associated with an e-mail.
  -[ReconDog](https://github.com/s0md3v/ReconDog) - A reconnaissance multi tool with a wide array of features.
+ -[OWASP Amass](https://github.com/OWASP/Amass) - Get information from: DNS, web scraping, APIs, and web archives.
 ### Username Checkers
  - [Check Usernames](http://checkusernames.com/)
  - [No Name Username Scanner](https://inteltechniques.com/osint/menu.user.html)
