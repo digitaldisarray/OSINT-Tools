@@ -6,11 +6,11 @@ If you want me to add something, just make a pull request.
 If you want a list of resources rather than tools, you should check out [this](https://github.com/jivoi/awesome-osint) repository.
 
 ## Tools
- - [Maltego](https://www.paterva.com/web7/) - Get info from lots of things.
+ - [Maltego](https://www.paterva.com/web7/) - Open source graphical link analysis tool for gathering and connecting OSINT.
  - [Metagoofil](https://github.com/kurobeats/metagoofil) - Extract metadata from popular file types.
- - [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - For lots of recon.
- - [theHarvester](https://github.com/laramies/theHarvester) - Better version of recon-ng.
- - [cree.py](http://www.geocreepy.com/) - A geolocation OSINT tool.
+ - [Recon-ng](https://github.com/lanmaster53/recon-ng) - For lots of web based recon.
+ - [theHarvester](https://github.com/laramies/theHarvester) - (in my opinion) A Better version of recon-ng.
+ - [cree.py](http://www.geocreepy.com/) - A geolocation OSINT tool for social media.
  - [SpiderFoot](http://www.spiderfoot.net/) - Open source footprinting and intelligence-gathering tool.
  - [XRay](https://github.com/evilsocket/xray) - Tool for mapping and OSINT gathering from public networks.
  - [trape](https://github.com/boxug/trape) - A cool people tracker written in python.
