@@ -21,6 +21,7 @@ If you want a list of resources rather than tools, you should check out [this](h
  - [OWASP Amass](https://github.com/OWASP/Amass) - Get information from: DNS, web scraping, APIs, and web archives.
  - [iKy](https://github.com/kennbroorg/iKy) - Collects information on an e-mail address and displays it in a fancy UI.
  - [Moriarty](https://github.com/AzizKpln/Moriarty-Project) - Collects information from phone numbers
+ - [GHunt](https://github.com/mxrch/GHunt) - GHunt is an OSINT tool to extract a lot of informations of someone's Google Account email.
 ### Username Checkers
  - [Check Usernames](http://checkusernames.com/)
  - [No Name Username Scanner](https://inteltechniques.com/osint/menu.user.html)
