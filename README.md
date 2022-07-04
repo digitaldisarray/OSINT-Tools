@@ -23,8 +23,10 @@ If you want a list of resources rather than tools, you should check out [this](h
  - [Moriarty](https://github.com/AzizKpln/Moriarty-Project) - Collects information from phone numbers
  - [GHunt](https://github.com/mxrch/GHunt) - GHunt is an OSINT tool to extract a lot of informations of someone's Google Account email.
  - [Spyse](https://spyse.com/) - OSINT gathering platform that collects valuable data and stores it in its own database to provide info without scanning. Info clusters: IPv4 hosts, domains/whois/site info, ports/banners/protocols, technologies, maintain biggest SSL/TLS db, AS, OS etc...
+ - [LinkInt](https://github.com/vysecurity/LinkedInt) - Tool for finding professional contact info. Uses the hunter.io API.
 ### Username Checkers
  - [Check Usernames](http://checkusernames.com/)
  - [No Name Username Scanner](https://inteltechniques.com/osint/menu.user.html)
  - [Gaddr](https://gaddr.me/)
  - [KnowEm](https://knowem.com/) (Searches a lot of things)
+ - [Sherlock](https://github.com/sherlock-project/sherlock)
