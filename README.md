@@ -28,3 +28,4 @@ If you want a list of resources rather than tools, you should check out [this](h
  - [No Name Username Scanner](https://inteltechniques.com/osint/menu.user.html)
  - [Gaddr](https://gaddr.me/)
  - [KnowEm](https://knowem.com/) (Searches a lot of things)
+ - [Predicta Search](https://www.predictasearch.com) - Reverse lookup search engine for email and phone number
