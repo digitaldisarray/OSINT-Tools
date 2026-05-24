@@ -19,6 +19,7 @@ If you want a list of resources rather than tools, you should check out [this](h
  - [Email2PhoneNumber](https://github.com/martinvigo/email2phonenumber) - A script for attempting to find a phone number associated with an e-mail.
  - [ReconDog](https://github.com/s0md3v/ReconDog) - A reconnaissance multi tool with a wide array of features.
  - [OWASP Amass](https://github.com/OWASP/Amass) - Get information from: DNS, web scraping, APIs, and web archives.
+ - [Phantom Tide](https://phantom.labs.jamessawyer.co.uk) - Public monitoring map for restricted airspace, vessels, and incidents.
  - [iKy](https://github.com/kennbroorg/iKy) - Collects information on an e-mail address and displays it in a fancy UI.
  - [Moriarty](https://github.com/AzizKpln/Moriarty-Project) - Collects information from phone numbers
  - [GHunt](https://github.com/mxrch/GHunt) - GHunt is an OSINT tool to extract a lot of informations of someone's Google Account email.
