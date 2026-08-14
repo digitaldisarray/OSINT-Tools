@@ -28,3 +28,4 @@ If you want a list of resources rather than tools, you should check out [this](h
  - [No Name Username Scanner](https://inteltechniques.com/osint/menu.user.html)
  - [Gaddr](https://gaddr.me/)
  - [KnowEm](https://knowem.com/) (Searches a lot of things)
+ - [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - Independent X (Twitter) search, follower export, and monitoring API.
